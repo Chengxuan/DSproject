@@ -11,7 +11,7 @@ Terminal:
 
 $ sudo su
 
-# sh ds.sh /apache-tomcat-7.0.32/<———— this should be replaced by your tomcat home
+\# sh ds.sh /apache-tomcat-7.0.32/<———— this should be replaced by your tomcat home
 
 
 Then:
@@ -24,11 +24,11 @@ go to “http://localhost:8080/ds/“ in your Browser
 
 |————————————|
 
-|            |
+|************|
 
-|   Warning  |<——————————————— I am Important, If you are using Safari Browser
+|***Warning**|<——————————————— I am Important, If you are using Safari Browser
 
-|            |
+|************|
 
 |————————————|
 
