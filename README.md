@@ -22,15 +22,11 @@ go to “http://localhost:8080/ds/“ in your Browser
 
 *******************************************************************
 
-|————————————|
-
-|************|
-
-|***Warning**|<——————————————— I am Important, If you are using Safari Browser
-
-|************|
-
-|————————————|
+|------------|
+|------------|
+|--Warning---|<——————————————— I am Important, If you are using Safari Browser
+|------------|
+|------------|
 
 
 if your are try to use file compress and download the .gz file using safari
