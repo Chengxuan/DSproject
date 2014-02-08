@@ -2,8 +2,8 @@
 ds.sh:
 [FUNCTION]
 Terminal:
-//first cd to my folder ./G00295429
 
+//first cd to my folder ./G00295429
 $ sudo su
 # sh ds.sh /apache-tomcat-7.0.32/<———— this should be replaced by your tomcat home
 
