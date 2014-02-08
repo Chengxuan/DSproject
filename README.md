@@ -3,7 +3,7 @@ ds.sh:
 [FUNCTION]
 Terminal:
 
-//first cd to my folder ./G00295429
+//first cd to my folder
 $ sudo su
 # sh ds.sh /apache-tomcat-7.0.32/<———— this should be replaced by your tomcat home
 
@@ -72,20 +72,20 @@ start using
 
 Borrow Code(all can be found in source Code comments)
 1.file compress and decompress byte buffer
-From Ru Peng. ID:G00307401
+From Ru Peng. 
 // read and write from inputfile to outputfile through a buffer bytes
 // this buff array could be improved by using PureBAOS class, but I
 // haven't fully
 // understand the GZIP mechanism
 // ***********************//
-// get help form Ru Peng student ID: G00307401
+// get help form Ru Peng 
 // I was used PureBAOS to create dynamic buffer before,but not work
 // **********************//
 
 2.generate key from specific string
-From Adeel Gilani. ID:G00279198
+From Adeel Gilani. 
 // ******************//
-// get help from Adeel Gilani student ID:G00279198
+// get help from Adeel Gilani 
 // I was using a String to Key method before, it's not work on Unix
 // system
 // I post the problem on Moodle
